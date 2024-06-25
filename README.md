@@ -1,7 +1,3 @@
-Certainly! Here’s a polished version of your GitHub profile README:
-
----
-
 # Hey there, fellow code voyager! 👋
 
 I'm Milton Vafana, a passionate software and game developer on a quest to explore the infinite possibilities of the digital universe. Welcome to my corner of the GitHub galaxy! 🚀
