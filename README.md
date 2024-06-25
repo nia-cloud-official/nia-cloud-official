@@ -2,7 +2,7 @@
 
 I'm Milton Vafana, a passionate software and game developer on a quest to explore the infinite possibilities of the digital universe. Welcome to my corner of the GitHub galaxy! 🚀
 
-https://github-profile-trophy.vercel.app/?username=nia-cloud-official
+[https://github-profile-trophy.vercel.app/?username=nia-cloud-official]
 
 ## About Me ℹ️
 
