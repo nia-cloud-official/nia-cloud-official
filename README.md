@@ -19,7 +19,7 @@ I'm Milton Vafana, a passionate software and game developer on a quest to explor
 
 ---
 
-## Tech Stack & Latest Blogs
+## Tech Stack & What's New
 ### Current Learning
 - Symfony & Laravel.
 - Improving my skills in cloud computing with AWS and Azure.
