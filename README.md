@@ -108,29 +108,11 @@ I'm Milton Vafana, a passionate software and game developer on a quest to explor
 
 ---
 
-## 🤝 Connect With Me 🤝
+## Let's Connect! 🌐
 
-<div align="center">
-  <a href="mailto:kirannaragund197@gmail.com" target="_blank">
-    <img src="./gmail.png" width="50" height="50" alt="Email" style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://x.com/kiran__a__n" target="_blank">
-    <img src="./twitter.png" width="50" height="50" alt="Twitter" style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://www.instagram.com/kiran_a_n" target="_blank">
-    <img src="./instagram.png" width="50" height="50" alt="Instagram" style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://www.github.com/nia-cloud-official" target="_blank">
-    <img src="./github.png" width="50" height="50" alt="GitHub" style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://www.linkedin.com/in/kiran-a-n/" target="_blank">
-    <img src="./linkedin.png" width="50" height="50" alt="LinkedIn" style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://dev.to/dev_kiran" target="_blank">
-    <img src="./dev_to.png" width="50" height="50" alt="Dev.to" style="margin-bottom: 5px;" />
-  </a>
-</div>
-<br />
+- 🐦 Twitter: [@SpadesAlva](https://twitter.com/SpadesAlva)
+- 💼 LinkedIn: [Milton Vafana](https://zw.linkedin.com/in/milton-vafana-8067b4243)
+- 🌐 Personal Blog: [Infinite Canvas](https://infinitecanvasofficial.blogspot.com/)
 
 <div align="center">
   <a href="https://www.buymeacoffee.com/nia-cloud-official" target="_blank">
@@ -149,11 +131,7 @@ I'm Milton Vafana, a passionate software and game developer on a quest to explor
 - 🚀 [School Portal Backend](https://github.com/nia-cloud-official/admin-backend): Blazing new trails in the world of education.
 - 🎮 [Influx Data Centre](https://github.com/nia-cloud-official/influx): Leveling up the search and data experience with an awesome search engine using NodeJS.
 
-## Let's Connect! 🌐
 
-- 🐦 Twitter: [@SpadesAlva](https://twitter.com/SpadesAlva)
-- 💼 LinkedIn: [Milton Vafana](https://zw.linkedin.com/in/milton-vafana-8067b4243)
-- 🌐 Personal Blog: [Infinite Canvas](https://infinitecanvasofficial.blogspot.com/)
 
 Feel free to explore my projects, contribute ideas, or just drop by to say hello! Together, let's embark on an epic coding adventure and make some digital magic happen. See you on
 
