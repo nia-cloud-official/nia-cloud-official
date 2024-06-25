@@ -20,15 +20,6 @@ I'm Milton Vafana, a passionate software and game developer on a quest to explor
 ---
 
 ## Tech Stack & Latest Blogs
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" alt="Tech Stack" src="./Skills_Animation_White.gif">
-</picture>
-
-<br /><br /><br /><br />
-
 ### Current Learning
 - Symfony & Laravel.
 - Improving my skills in cloud computing with AWS and Azure.
@@ -74,8 +65,8 @@ I'm Milton Vafana, a passionate software and game developer on a quest to explor
     <td width="50%">
       <h3 align="center"><strong>Latest Project</strong></h3>
       <p align="center">
-        <a href="https://github.com/nia-cloud-official/Awesome-Dev-Portfolios">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=nia-cloud-official&repo=Awesome-Dev-Portfolios&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
+        <a href="https://github.com/nia-cloud-official/zora">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=nia-cloud-official&repo=zora&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="zora" />
         </a>
       </p>
     </td>
@@ -117,12 +108,6 @@ I'm Milton Vafana, a passionate software and game developer on a quest to explor
 </p>
 
 ---
-
-## Current Projects 🛠️
-
-- 🚀 [School Portal Backend](https://github.com/nia-cloud-official/admin-backend): Blazing new trails in the world of education.
-- 🎮 [Influx Data Centre](https://github.com/nia-cloud-official/influx): Leveling up the search and data experience with an awesome search engine using NodeJS.
-
 
 
 Feel free to explore my projects, contribute ideas, or just drop by to say hello! Together, let's embark on an epic coding adventure and make some digital magic happen. See you on
