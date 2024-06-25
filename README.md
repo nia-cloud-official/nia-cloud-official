@@ -106,10 +106,3 @@ I'm Milton Vafana, a passionate software and game developer on a quest to explor
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer" alt="Footer Image" />
 </p>
-
----
-
-
-Feel free to explore my projects, contribute ideas, or just drop by to say hello! Together, let's embark on an epic coding adventure and make some digital magic happen. See you on
-
- the code battlefield! 👨‍💻✨
