@@ -100,14 +100,6 @@ I'm Milton Vafana, a passionate software and game developer on a quest to explor
 
 ---
 
-## 🌟 Thought of the Day 🌟
-
-<p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Thomas%20Jefferson&quote=Determine%20never%20to%20be%20idle.%20No%20person%20will%20have%20occasion%20to%20complain%20of%20the%20want%20of%20time%20who%20never%20loses%20any.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Thought of the Day">
-</p>
-
----
-
 ## Let's Connect! 🌐
 
 - 🐦 Twitter: [@SpadesAlva](https://twitter.com/SpadesAlva)
