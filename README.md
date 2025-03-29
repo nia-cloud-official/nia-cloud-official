@@ -17,9 +17,8 @@ I'm Milton Vafana, a passionate software and web developer on a quest to explore
 
 ## Tech Stack & What's New
 ### Current Learning
-- Symfony & Laravel.
-- Improving my skills in cloud computing with AWS and Azure.
-
+- Learning rust
+  
 ---
 
 ## 🏆 GitHub Trophies 🏆
@@ -61,8 +60,8 @@ I'm Milton Vafana, a passionate software and web developer on a quest to explore
     <td width="50%">
       <h3 align="center"><strong>Latest Project</strong></h3>
       <p align="center">
-        <a href="https://github.com/nia-cloud-official/zora">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=nia-cloud-official&repo=zora&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="zora" />
+        <a href="https://github.com/nia-cloud-official/render-status">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=nia-cloud-official&repo=render-status&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="render-status" />
         </a>
       </p>
     </td>
@@ -70,7 +69,7 @@ I'm Milton Vafana, a passionate software and web developer on a quest to explore
       <h3 align="center"><strong>Top Contributions</strong></h3>
       <p align="center">
         <a href="https://github.com/nia-cloud-official">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=nia-cloud-official&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=nia-cloud-official&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
         </a>
       </p>
     </td>
